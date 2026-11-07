@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+tqdm
+joblib
+torch
+torchvision
+transformers
+kaggle
